@@ -13,7 +13,7 @@ const perguntas = [
                 afirmacao: "Cuidado com a Polícia Federal"
             },
             {
-                texto: "Tráfico de drgogas",
+                texto: "Tráfico de drogas",
                 afirmacao: "Adora um pod né?"
             },
             {
