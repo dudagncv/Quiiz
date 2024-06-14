@@ -6,59 +6,70 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Qual atividade ilegal em que você provavelmente se envolviria?",
+        enunciado: "QUAL ATIVIDADE ILEGAL VOCÊ PROVAVELMENTE DE ENVOLVERIA?",
         alternativas: [
             {
-                texto: "Contrabando de cigarros!",
+                texto: "Contrabando de drogas",
+                afirmacao: "Cuidado com a Polícia Federal"
             },
             {
-                texto: "Tráfico de drogas",
-            }
+                texto: "Tráfico de drgogas",
+                afirmacao: "Adora um pod né?"
+            },
             {
-                texto: "Falsificação de dinheiro"
-            }
+                 texto: "Falsificação de Dinheiro",
+                afirmacao: "Oa minino tá com o pacote dentro da mala..."
+            },
             {
-                texto: "Sequestro"
+                 texto: "Sequestro",
+                afirmacao: "Se você escolher essa opção ligue para o 190"
             }
+            
         ]
     },
     {
-        enunciado: " Pra onde você iria se tivesse que fugir? ",
+        enunciado: "PRA ONDE VOCÊ IRA SE TIVESSE QUE FUGIR?",
         alternativas: [
             {
                 texto: "Floresta",
+                afirmacao: "Pega o repelente"
             },
             {
                 texto: "Praia",
-            }
+                afirmacao: "Pé na areia,caipirinha, água de coco a cervejinha"
+            },
             {
-                texto: "Outro país"
-            }
+               texto: "Outro país",
+                afirmacao: "Não esquece o passaporte"
+            },
             {
-                texto: "Interior de uma cidade"
+                texto: "Interior de uma cidade",
+                afirmacao: "Vai virar boiadeiro (a)"  
             }
         ]
     },
     {
-        enunciado: "Se você fosse escolher um objeto qual seria?",
+        enunciado: "Se você fosse escolher um objeto qual seria? ",
         alternativas: [
             {
                 texto: "Faca",
+                afirmacao: "Espero que use só na cozinha"
             },
             {
                 texto: "Arma",
-            }
+                afirmacao: " Tá jogando muito FREE FIRE "
+            },
             {
-                texto: "Espada"
-            }
+                texto: "Espada",
+                afirmacao: "Quer ser o Zoro é? " 
+            },
             {
-                texto: "Luva com lâminas afiadas"
+                texto: "Luva com lâminas afiadas",
+                afirmacao: "Acabou a criatividade "
             }
         ]
     },
 ];
-
-
 let atual = 0;
 let perguntaAtual;
 let historiaFinal = "";
