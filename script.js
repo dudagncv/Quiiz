@@ -10,19 +10,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Contrabando de drogas",
-                afirmacao: "Alfred Ballí Treviño"
+                afirmacao: "Alfred Ballí Treviño."
             },
             {
                 texto: "Tráfico de drgogas",
-                afirmacao: "Pablo Escobar"
+                afirmacao: "Pablo Escobar."
             },
             {
                  texto: "Falsificação de Dinheiro",
-                afirmacao: "Pablo Escobar"
+                afirmacao: "Pablo Escobar."
             },
             {
                  texto: "Sequestro",
-                afirmacao: "Lázaro barbosa"
+                afirmacao: "Lázaro barbosa."
             }
             
         ]
@@ -32,19 +32,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Floresta",
-                afirmacao: "Lázaro barbosa"
+                afirmacao: "Lázaro barbosa."
             },
             {
                 texto: "Praia",
-                afirmacao: "Alfred Ballí Treviño"
+                afirmacao: "Alfred Ballí Treviño."
             },
             {
                texto: "Outro país",
-                afirmacao: "Pablo Escobar"
+                afirmacao: "Pablo Escobar."
             },
             {
                 texto: "Interior de uma cidade",
-                afirmacao: "Lázaro barbosa"  
+                afirmacao: "Lázaro barbosa."  
             }
         ]
     },
@@ -53,19 +53,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Faca",
-                afirmacao: "Lázaro barbosa"
+                afirmacao: "Lázaro barbosa."
             },
             {
                 texto: "Arma",
-                afirmacao: " Pablo Escobar "
+                afirmacao: " Pablo Escobar. "
             },
             {
                 texto: "Espada",
-                afirmacao: "Zoro" 
+                afirmacao: "Zoro." 
             },
             {
                 texto: "Luva com lâminas afiadas",
-                afirmacao: "Freddy Krueger "
+                afirmacao: "Freddy Krueger. "
             }
         ]
     },
