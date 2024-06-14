@@ -10,19 +10,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Contrabando de drogas",
-                afirmacao: "Cuidado com a Polícia Federal"
+                afirmacao: "Alfred Ballí Treviño"
             },
             {
-                texto: "Tráfico de drogas",
-                afirmacao: "Adora um pod né?"
+                texto: "Tráfico de drgogas",
+                afirmacao: "Pablo Escobar"
             },
             {
                  texto: "Falsificação de Dinheiro",
-                afirmacao: "Oa minino tá com o pacote dentro da mala..."
+                afirmacao: "Pablo Escobar"
             },
             {
                  texto: "Sequestro",
-                afirmacao: "Se você escolher essa opção ligue para o 190"
+                afirmacao: "Lázaro barbosa"
             }
             
         ]
@@ -32,19 +32,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Floresta",
-                afirmacao: "Pega o repelente"
+                afirmacao: "Lázaro barbosa"
             },
             {
                 texto: "Praia",
-                afirmacao: "Pé na areia,caipirinha, água de coco a cervejinha"
+                afirmacao: "Alfred Ballí Treviño"
             },
             {
                texto: "Outro país",
-                afirmacao: "Não esquece o passaporte"
+                afirmacao: "Pablo Escobar"
             },
             {
                 texto: "Interior de uma cidade",
-                afirmacao: "Vai virar boiadeiro (a)"  
+                afirmacao: "Lázaro barbosa"  
             }
         ]
     },
@@ -53,19 +53,19 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Faca",
-                afirmacao: "Espero que use só na cozinha"
+                afirmacao: "Lázaro barbosa"
             },
             {
                 texto: "Arma",
-                afirmacao: " Tá jogando muito FREE FIRE "
+                afirmacao: " Pablo Escobar "
             },
             {
                 texto: "Espada",
-                afirmacao: "Quer ser o Zoro é? " 
+                afirmacao: "Zoro" 
             },
             {
                 texto: "Luva com lâminas afiadas",
-                afirmacao: "Acabou a criatividade "
+                afirmacao: "Freddy Krueger "
             }
         ]
     },
